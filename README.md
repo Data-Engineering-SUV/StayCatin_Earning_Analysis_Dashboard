@@ -15,3 +15,5 @@ questions:
 2. Relationship between price and earnings
 3. Any location (shore) getting more earnings
 4. Relationship between price and reviews
+
+Tableau public Dashboard link: https://public.tableau.com/views/StayCatin_comCaseStudy_16939738343640/StayCatinEarningAnalysis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
