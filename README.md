@@ -1,9 +1,9 @@
 # StayCatin_Earning_Analysis_Dashboard
 
-**Project: Staycatin.com Listing**
+### Project: Staycatin.com Listing
 
-**Problem Statement:-
-**
+**Problem Statement:-**
+
 The data presented from an online platform StayCatin.com that lets you book properties for a particular date per your requirement (similar to Airbnb).
 
 You have joined the firm as a business analyst and have been asked to help the business management make smart decisions. They have provided you with the
