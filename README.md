@@ -17,3 +17,6 @@ questions:
 4. Relationship between price and reviews
 
 Tableau public Dashboard link: https://public.tableau.com/views/StayCatin_comCaseStudy_16939738343640/StayCatinEarningAnalysis?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+# Tableau_Dashboard
+![Dashboard_Img](https://github.com/Data-Engineering-SUV/StayCatin_Earning_Analysis_Dashboard/assets/106040176/38899e70-c779-4a79-8a69-d66e76da8b4a)
